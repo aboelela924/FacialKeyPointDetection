@@ -1,1 +1,1 @@
-<h1>Real time Facial Keypoint Detector</h1>
+<h1>Facial Keypoint Detector</h1>
